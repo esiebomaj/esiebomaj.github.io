@@ -1,9 +1,9 @@
-# Portfolio 
-Perfect Portoflio Template to start.
-Watch my YouTube video to see how to run it.
-Video how to use it:
-https://youtu.be/ddLuZXs8Uyw
-Video how to deploy it:
-https://youtu.be/E1dqffpUlMA
-## Credits
-Template was created by Tenzin Phuljung and edited by Jakob Wolitzki.
+# My Portfolio 
+Simple portfolio that contains my skills experiences and few of my projects
+
+### Here is a screenshot
+![Screenshot (48)](https://user-images.githubusercontent.com/57163971/83046236-a3846200-a03e-11ea-8ff3-5772cea2320c.png)
+
+### Link
+
+<a href='https://esiebomaj.github.io/'>click me to view on GitHub pages</a>
