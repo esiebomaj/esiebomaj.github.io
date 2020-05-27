@@ -2,7 +2,8 @@
 Simple portfolio that contains my skills experiences and few of my projects
 
 ### Here is a screenshot
-![Screenshot (48)](https://user-images.githubusercontent.com/57163971/83046236-a3846200-a03e-11ea-8ff3-5772cea2320c.png)
+<img src='![Screenshot (48)](https://user-images.githubusercontent.com/57163971/83046236-a3846200-a03e-11ea-8ff3-5772cea2320c.png)' >
+
 
 ### Link
 
