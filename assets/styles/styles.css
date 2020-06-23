@@ -196,6 +196,9 @@ h1, h2, h3, h4, h5, h6 {
 
 #work .work-row {
 	margin-bottom: 5.5em;
+	border-bottom: 2px dashed #f44336;
+    padding-bottom: 40px;
+}
 }
 
 .details h3 {
