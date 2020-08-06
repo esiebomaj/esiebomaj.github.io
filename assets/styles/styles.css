@@ -364,7 +364,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #btn1:hover {
-    padding: 2px;
+	padding: 2px;
+	cursor: pointer;
 }
 #btn1:focus{
 	outline: none;
